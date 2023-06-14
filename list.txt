@@ -1,4 +1,3 @@
-0.0.0.0 example.com
 0039bet.it
 123bet.it
 1xbet.it
@@ -12,7 +11,7 @@
 782sports.it
 782xbet.it
 888.com
-0.0.0.0 888.it
+888.it
 888casino.com
 888casino.it
 888-casino.it
