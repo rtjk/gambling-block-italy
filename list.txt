@@ -1,3 +1,4 @@
+0.0.0.0 example.com
 0039bet.it
 123bet.it
 1xbet.it
